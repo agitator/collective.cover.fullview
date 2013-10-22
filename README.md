@@ -1,0 +1,2 @@
+collective.cover.fullview
+=========================
